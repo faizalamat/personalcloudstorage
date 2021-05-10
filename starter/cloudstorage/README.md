@@ -127,3 +127,4 @@ You aren't required to understand hashing or encryption and that's why your tech
 [Encryption](https://en.wikipedia.org/wiki/Encryption)
 
 All of us here at Super*Duper*Drive wish you good luck with the project!
+Additional info : Taken from Udacity's Starter Project for submitting Java Spring Boot Final Project
